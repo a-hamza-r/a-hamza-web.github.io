@@ -1,10 +1,10 @@
 ![Ameer Hamza](Ameer.jpg)
 
+I am a PhD student at [Florida State University](https://www.fsu.edu/), [Department of Computer Science](https://www.cs.fsu.edu/). I am working at the Formal Methods group, under the guidance of [Dr. Grigory Fedyukovich](http://www.cs.fsu.edu/~grigory/). 
+
 [LinkedIn](https://www.linkedin.com/in/a-hamza/)
 
-You can use the [editor on GitHub](https://github.com/a-hamza-r/a-hamza-r.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
