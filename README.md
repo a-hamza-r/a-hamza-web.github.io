@@ -1,38 +1,35 @@
-I am a PhD student at [Florida State University](https://www.fsu.edu/), [Department of Computer Science](https://www.cs.fsu.edu/). I am working at the Formal Methods group, under the guidance of [Dr. Grigory Fedyukovich](http://www.cs.fsu.edu/~grigory/). 
+# Links and Personal info
 
-[LinkedIn](https://www.linkedin.com/in/a-hamza/)
+[My LinkedIn profile](https://www.linkedin.com/in/a-hamza/)
+
+[My Github profile](https://github.com/a-hamza-r)
+
+Email address: ah18r@my.fsu.edu
+
+I am a PhD student at [Florida State University](https://www.fsu.edu/), [Department of Computer Science](https://www.cs.fsu.edu/). I am working at the Formal Methods Group, under the guidance of [Dr. Grigory Fedyukovich](http://www.cs.fsu.edu/~grigory/). I started my PhD prorgam in August 2018. I began working at Formal Methods Group in May 2020. 
+
+My area of study is Formal Methods, Program Analysis and Software Verification. 
 
 
+# Projects
 
-### Markdown
+<dl>
+	<dt>Relational Cost Analysis of Equivalent Programs, using Symbolic Execution</dt>
+	<dd></dd>
+</dl>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Education
 
-# Header 1
-## Header 2
-### Header 3
+<dl>
+<dt>Florida State University (FSU)</dt>
+<dd>Tallahassee, FL</dd>
+<dd>Doctorate's in Computer Science</dd>
+<dd>Expected Graduation: May 2024</dd>
 
-- Bulleted
-- List
+<dt>Lahore University of Management Sciences
+<dd>Lahore, Pakistan</dd>
+<dd>Bachelor's in Computer Science</dd>
+<dd>Graduation: May 2018</dd>
+</dl>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-hamza-r/a-hamza-r.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 0eaffb7fcd76abc8865d9053489ab9dec0fc8dfd
