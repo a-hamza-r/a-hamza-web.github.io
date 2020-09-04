@@ -4,7 +4,7 @@
 
 [My Github profile](https://github.com/a-hamza-r)
 
-Email address: ah18r@my.fsu.edu
+Email address: [ah18r@my.fsu.edu](mailto:ah18r@my.fsu.edu)
 
 [My resume](https://a-hamza-r.github.io/pdfs/resume.pdf)
 
