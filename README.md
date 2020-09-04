@@ -6,7 +6,7 @@
 
 Email address: ah18r@my.fsu.edu
 
-![My resume](/pdfs/resume.pdf)
+[My resume](https://a-hamza-r.github.io/pdfs/resume.pdf)
 
 I am a PhD student at [Florida State University](https://www.fsu.edu/), [Department of Computer Science](https://www.cs.fsu.edu/). I am working at the Formal Methods Group, under the guidance of [Dr. Grigory Fedyukovich](http://www.cs.fsu.edu/~grigory/). I started my PhD prorgam in August 2018. I began working at Formal Methods Group in May 2020. 
 
