@@ -17,7 +17,7 @@ My area of research is Formal Methods, Program Analysis and Software Verificatio
 
 <dl>
 	<dt>Relational Cost Analysis of Equivalent Programs</dt>
-	<dd>Proving equivalence of two software programs symbolically by converting them into CHCs (Constrained Horn Clauses) using SeaHorn</dd>
+	<dd>Proving equivalence of two software programs symbolically by converting them into CHCs (Constrained Horn Clauses)</dd>
 	<dd>Appending a cost model to the equivalent programs to find their performance (execution cost) for analysis, using a tool SeaCost</dd>
 </dl>
 
