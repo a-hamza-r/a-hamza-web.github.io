@@ -16,9 +16,9 @@ My area of research is Formal Methods, Program Analysis and Software Verificatio
 # Projects
 
 <dl>
-	<dt>Relational Cost Analysis of Equivalent Programs</dt>
-	<dd>Proving equivalence of two software programs symbolically by converting them into CHCs (Constrained Horn Clauses)</dd>
-	<dd>Appending a cost model to the equivalent programs to find their performance (execution cost) for analysis, using a tool SeaCost</dd>
+	<dt>Automated Alignment for Equivalence Checking</dt>
+	<dd>Reducing a task of equivalence checking (relational verification) to a task of safety checking of a product program</dd>
+	<dd>Introducing a novel technique for equivalence checking of two programs containing loops that require a nontrivial alignment (not in lockstep composition) inside product program</dd>
 </dl>
 
 
