@@ -17,8 +17,8 @@ My area of research is Formal Methods, Program Analysis and Software Verificatio
 
 <dl>
 	<dt>Automated Alignment for Equivalence Checking</dt>
-	* Reducing a task of equivalence checking (relational verification) to a task of safety checking of a product program</dd>
-	* Introducing a novel technique for equivalence checking of two programs containing loops that require a nontrivial alignment (not in lockstep composition) inside product program</dd>
+	<dd>Reducing a task of equivalence checking (relational verification) to a task of safety checking of a product program</dt>
+	<dd>Introducing a novel technique for equivalence checking of two programs containing loops that require a nontrivial alignment (not in lockstep composition) inside product program</dd>
 </dl>
 
 
