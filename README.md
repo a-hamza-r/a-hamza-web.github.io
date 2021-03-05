@@ -1,5 +1,7 @@
 # About me
 
+Note: This website is currently not active on Github Pages
+
 [My LinkedIn profile](https://www.linkedin.com/in/a-hamza/)
 
 [My Github profile](https://github.com/a-hamza-r)
